@@ -31,7 +31,7 @@ export const menuItems : {
         icon: <IconUsers className="size-5" />
     },
     {
-        url: "/manage/oders",
+        url: "/manage/orders",
         title: "Quản lý đơn hàng",
         icon: <IconOders className="size-5" />
     },
